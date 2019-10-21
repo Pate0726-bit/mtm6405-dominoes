@@ -34,8 +34,9 @@ A completed version of the assignment can be found at the following:
 ## Submission
 1. Create a commit with the message "Completed the Dominoes Assignment"
 2. Push to GitHub
-3. Submit the URL to your GitHub Repository in BrightSpace
+3. Submit the URL to your GitHub Repository to the **Dominoes** assignment on BrightSpace
 
+## Plagiarism Honor Code
 By making the submission you also agree to the Algonquin College Student Attestation of Academic Integrity below: 
 
 **I hereby declare that the work I submit throughout the duration of this course/program will be my own work.**
